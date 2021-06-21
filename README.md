@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kartik Hegde
-- 👀 I’m interested in machine learning, data science or python3 projects.
+- 👀 I’m interested in machine learning, data science or python3(coding) .
 - 🌱 I’m currently learning machine learning and working towards data science.
-- 💞️ I’m looking to collaborate on any data science or python project
+- 💞️ I’m looking to collaborate on any ML,data science or python project.
 - 📫 You can reach me her: @kartikhegde062@gmail.com
 
 <!---
