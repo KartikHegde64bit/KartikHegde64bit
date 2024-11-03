@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kartik S Hegde
-- 👀 I’m interested in python3, C++, Competitive Programming .
-- 💞️ I’m looking to collaborate on any C++ , Python project.
+- 👀 I’m interested in JS, Java, C++.
+- 💞️ I’m looking to collaborate on any open source contributions.
 - 📫 You can reach me here: @kartikhegde062@gmail.com
 
 <!---
